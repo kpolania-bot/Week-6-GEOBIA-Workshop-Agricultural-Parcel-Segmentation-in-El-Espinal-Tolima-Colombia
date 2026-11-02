@@ -1,1 +1,0 @@
-# Week-6-GEOBIA-Workshop-Agricultural-Parcel-Segmentation-in-El-Espinal-Tolima-Colombia
